@@ -8,3 +8,5 @@ Ports can be opened and closed specifically for cloudflare, along with optional 
 If there is interest in more functionality, I have the need or I have the time, then this class may be further developed with extra features.
 
 To get started check out index.php which contains a set of examples, uncomment to test different rules. Be sure to enter your own ASW credentials and security group details, either in the class constructor or in the separate config file.
+
+&copy; 2014 Mark Walker (AWcode)
